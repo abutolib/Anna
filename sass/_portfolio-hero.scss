@@ -1,0 +1,139 @@
+.portfolio-hero__title {
+  margin: 0;
+  margin-bottom: 50px;
+  font-weight: 600;
+  font-size: 46px;
+  line-height: 63px;
+  color: #424242;
+}
+
+.portfolio-hero__pic {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+.portfolio-hero__pic>img {
+  display: block;
+  margin: 0 auto;
+}
+
+.chiziq {
+  display: flex;
+  align-items: center;
+}
+
+.circle {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  max-width: 20px;
+  height: 20px;
+  border: 1px solid #D8B152;
+  border-radius: 50%;
+}
+
+.circle__inner {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: inline-block;
+  margin: auto;
+  width: 100%;
+  max-width: 8px;
+  height: 8px;
+  background: #D8B152;
+  border-radius: 50%;
+}
+
+.line1 {
+  display: inline-flex;
+  width: 100%;
+  max-width: 170px;
+  height: 1px;
+  background-color: #AEA38B;
+}
+
+.line2 {
+  display: inline-flex;
+  width: 100%;
+  max-width: 380px;
+  height: 1px;
+  background-color: #AEA38B;
+}
+
+.line3 {
+  display: inline-flex;
+  width: 100%;
+  max-width: 50px;
+  height: 1px;
+  background-color: #AEA38B;
+}
+
+.portfolio-hero__list {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  margin-top: 20px;
+  margin-bottom: 51px;
+  padding: 0;
+  list-style-type: none;
+}
+
+
+.portfolio-hero-item {
+  width: 100%;
+  max-width: 360px;
+}
+
+.portfolio-hero-item__title {
+  margin: 0;
+  margin-bottom: 20px;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 49px;
+  text-align: center;
+  color: #424242;
+}
+
+
+.portfolio-hero-item__text {
+  margin: 0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  text-align: center;
+  color: #424242;
+}
+
+
+.portfolio-hero__sublist {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0;
+  margin-bottom: 70px;
+  padding: 0;
+  list-style-type: none;
+}
+
+.portfolio-hero-subitem {
+  width: 100%;
+  max-width: 360px;
+  padding: 23px 20px;
+  background: #AEA38B;
+}
+.portfolio-hero-subitem:nth-child(2) {
+  padding: 36px 20px;
+}
+
+.portfolio-hero-subitem__text {
+  margin: 0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  text-align: center;
+  color: #FFFFFF;
+}
