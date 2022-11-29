@@ -1,0 +1,151 @@
+.bathroom {
+  padding-top: 140px;
+}
+
+.bathroom__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.box10 {
+  width: 100%;
+  max-width: 460px;
+}
+
+.box10__title {
+  margin: 0;
+  margin-bottom: 40px;
+  font-weight: 600;
+  font-size: 46px;
+  line-height: 63px;
+  color: #424242;
+
+}
+
+.box10__text {
+  margin: 0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  color: #424242;
+}
+
+.box11 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.bedrooms__title {
+  margin: 0;
+  margin-bottom: 40px;
+  font-weight: 600;
+  font-size: 46px;
+  line-height: 63px;
+  color: #424242;
+}
+
+.bedrooms__text {
+  margin: 0;
+  margin-bottom: 50px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  color: #424242;
+}
+
+.portfolio-blockquote__text3 {
+  width: 100%;
+  max-width: 1020px;
+  margin: 0 auto;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 150%;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.box15 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.box15__list {
+  padding-left: 20px;
+}
+
+.box15__item {
+  width: 100%;
+  max-width: 740px;
+}
+
+.box15__item+.box15__item {
+  margin-top: 10px;
+}
+
+.box15__text {
+  margin: 0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  color: #424242;
+}
+
+.box17 {
+  margin-top: 120px;
+}
+
+.box17_title {
+  margin: 0;
+  font-weight: 600;
+  font-size: 46px;
+  line-height: 63px;
+  color: #424242;
+}
+
+.box17__list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.box17__item {
+  width: 100%;
+  max-width: 260px;
+  margin-top: 40px;
+}
+
+.box17__title {
+  display: inline-block;
+  margin: 0;
+  margin-right: 16px;
+  margin-bottom: 13px;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 120%;
+  color: #D8B152;
+}
+
+.line4 {
+  display: inline-block;
+  width: 100%;
+  max-width: 200px;
+  height: 1px;
+  background: #503D2B;
+}
+
+.box17__text {
+  margin: 0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 140%;
+  color: #424242;
+}
